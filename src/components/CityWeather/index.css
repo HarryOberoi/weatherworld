@@ -1,0 +1,86 @@
+.city-main {
+    margin: auto;
+    height: 700px;
+    width: 800px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color:#d67b1a;
+  }
+.sunCloud-icon{    
+    height: 150px;
+    width: 190px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+    border-radius: 20px;
+}
+.image-description{
+    font-size: 25px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #d67b1a;
+    text-transform: capitalize;
+    margin-top: 10px;
+    position: relative;
+    bottom: 40px;
+    font-weight: bold;
+}
+.temperature {      
+    font-size: 125px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+.location {      
+    margin-top: 50px;
+    font-size: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+.container{
+    margin-top: 100px;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: flex-start;
+
+}
+.sub-container{
+    margin: auto;
+    display: flex;
+    gap: 25px;
+}
+.humidity-icon{
+
+    height: 70px;
+    width:  70px;
+}
+.wind-icon{
+
+    height: 70px;
+    width:  70px;
+}
+.temperature-icon{
+
+    height: 70px;
+    width:  70px;
+}
+.data{
+    font-size: 25px;
+    color: white;
+}
+.element2{
+    margin-top: 10px;
+}
+
+.not-found{
+    font-size: 40px;
+    color: white;  
+    justify-content: center; 
+    margin-top: 100px;
+}
